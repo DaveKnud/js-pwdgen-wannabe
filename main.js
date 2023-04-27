@@ -28,6 +28,12 @@ console.log(message);
 document.getElementById("my_age").innerHTML = message;
 
 
+//Generate Password
+document.getElementById("password").innerHTML = "Your password is " + nameUser + surnameUser + favouriteColor;
+
+
+
+
 
 
 
